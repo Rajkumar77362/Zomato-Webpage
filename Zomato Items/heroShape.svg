@@ -1,0 +1,47 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/CSS/Day%2012/index.html
+Subject: Document
+Date: Mon, 6 Mar 2023 06:42:54 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--cFNdLcRTkdGcEUEtxxQDDrHrM4gxruvAfLYVVYerdC----"
+
+
+------MultipartBoundary--cFNdLcRTkdGcEUEtxxQDDrHrM4gxruvAfLYVVYerdC----
+Content-Type: text/html
+Content-ID: <frame-3BB304FC5D47D7D13667D6B79CEAE029@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/CSS/Day%2012/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+</head>
+<body>
+    <svg viewBox=3D"0 0 500 500" xmlns=3D"http://www.w3.org/2000/svg" xmlns=
+:xlink=3D"http://www.w3.org/1999/xlink" width=3D"100%" id=3D"blobSvg">
+        <defs>
+          <linearGradient id=3D"gradient" x1=3D"0%" y1=3D"0%" x2=3D"0%" y2=
+=3D"100%">
+            <stop offset=3D"0%" style=3D"stop-color: rgb(238, 205, 163);"><=
+/stop>
+            <stop offset=3D"100%" style=3D"stop-color: rgb(239, 98, 159);">=
+</stop>
+          </linearGradient>
+        </defs>
+        <path id=3D"blob" d=3D"M431.5,285.5Q433,321,408.5,346.5Q384,372,363=
+.5,404Q343,436,305.5,441Q268,446,226,465Q184,484,145,462.5Q106,441,75.5,409=
+Q45,377,56.5,330.5Q68,284,69,250Q70,216,66,175Q62,134,100,118Q138,102,163,6=
+6.5Q188,31,229,33Q270,35,304.5,53Q339,71,366,95Q393,119,417.5,147.5Q442,176=
+,436,213Q430,250,431.5,285.5Z" fill=3D"url(#gradient)"></path>
+      </svg>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--cFNdLcRTkdGcEUEtxxQDDrHrM4gxruvAfLYVVYerdC------

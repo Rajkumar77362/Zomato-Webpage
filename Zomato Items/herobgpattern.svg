@@ -1,0 +1,45 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/CSS/Day%2012/index.html
+Subject: Document
+Date: Mon, 6 Mar 2023 06:44:27 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--IcRbEnxeQi0mG3BY6RDiW4odXPcOm88Ok2TQuwFDLH----"
+
+
+------MultipartBoundary--IcRbEnxeQi0mG3BY6RDiW4odXPcOm88Ok2TQuwFDLH----
+Content-Type: text/html
+Content-ID: <frame-3BB304FC5D47D7D13667D6B79CEAE029@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/CSS/Day%2012/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+</head>
+<body>
+    <svg viewBox=3D"0 0 500 500" xmlns=3D"http://www.w3.org/2000/svg" xmlns=
+:xlink=3D"http://www.w3.org/1999/xlink" width=3D"100%" id=3D"blobSvg">
+        <defs>
+          <pattern id=3D"pattern" x=3D"0" y=3D"0" width=3D"6" height=3D"6" =
+patternUnits=3D"userSpaceOnUse" fill=3D"#ee89a0">
+            <path d=3D"M5 0h1L0 6V5zM6 5v1H5z"></path>
+          </pattern>
+        </defs>
+        <path id=3D"blob" d=3D"M480,291.5Q477,333,444,359Q411,385,386.5,414=
+.5Q362,444,323.5,446.5Q285,449,250,449.5Q215,450,170.5,457Q126,464,108,424.=
+5Q90,385,62.5,356.5Q35,328,21,289Q7,250,22,211Q37,172,50,132.5Q63,93,104,80=
+.5Q145,68,177,44Q209,20,250.5,14.5Q292,9,332,23.5Q372,38,391,77Q410,116,443=
+.5,141.5Q477,167,480,208.5Q483,250,480,291.5Z" fill=3D"url(#pattern)"></pat=
+h>
+      </svg>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--IcRbEnxeQi0mG3BY6RDiW4odXPcOm88Ok2TQuwFDLH------
